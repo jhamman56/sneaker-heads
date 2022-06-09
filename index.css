@@ -32,3 +32,21 @@ h1{
 #row1-section1{
     background-color: yellow;
 }
+#row1-section2{
+    font-family: fantasy;
+    text-align: center;
+    text-decoration: wavy;
+}
+html{
+    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
+    background-size: contain;
+}
+#row2-section2{
+    width: 50%;
+    height: 50%;
+    margin-left: auto;
+    padding: 20px 40px;
+    border: 70rem;
+    text-shadow: 40em;
+    box-shadow: 20ch;
+}
